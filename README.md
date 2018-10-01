@@ -10,7 +10,7 @@ Please submit a PR with your slides.
 
 | Instructors | Source |
 | ----------- | -------|
-| André Carvalho, Cezar Sá | Estendendo o Kubernetes com Go |
+| André Carvalho, Cezar Sá | [Estendendo o Kubernetes com Go](https://github.com/andrestc/go-kubernetes-workshop) |
 | Luciano Ramalho | Go e TDD para quem sabe Python |
 
 ### Talks (28/09)
