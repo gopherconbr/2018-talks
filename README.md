@@ -36,7 +36,7 @@ Please submit a PR with your slides.
 | 14:30 | Daniela Petruzalek | [The best feature of Go](https://speakerdeck.com/danicat/the-best-feature-of-go-gophercon-br-2018) | |
 | 15:20 | Marian Montagnino | Developing Computer Vision apps with Go | |
 | 16:10 | Michael Yuan | Golang Application Performance Monitoring with Elastic Stack | |
-| 17:20 | Elton Minetto | Serverless em Go | |
+| 17:20 | Elton Minetto | [Serverless em Go](https://www.slideshare.net/eminetto/serverless-em-go) | |
 | 18:10 | | Lightning talks | |
 
 
